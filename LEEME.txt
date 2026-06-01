@@ -1,0 +1,19 @@
+INC — Iván Nahüel Cristini · Portfolio street-tech
+===================================================
+index.html        → el sitio completo (7 secciones operativas)
+favicon.png       → ícono
+images/
+  hero-3d.png     → COLLAGE 3D del hero (reemplazá por tu render final)
+  + assets sueltos (aerosol, esfera, cursor, etc.) por si los querés usar
+
+EDITAR:
+- Colores/fuentes: bloque :root del <style>. Verde lima = --lime.
+- WhatsApp: 5491128523940 (cambialo en todo el archivo si hace falta).
+- Links de proyectos: sección F. Trabajos.
+
+13 proyectos con link activo + 2 "Próximamente" (Decodificador, Posada).
+Startups con dominio propio: sodecosystem.org · kadmontech.com
+
+PUBLICAR EN GITHUB PAGES:
+1. Subí la carpeta a un repo.
+2. Settings → Pages → branch main / root.
